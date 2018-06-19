@@ -1,0 +1,15 @@
+C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\bin\Debug\SQLComputerViewer3.exe.config
+C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\bin\Debug\SQLComputerViewer3.exe
+C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\bin\Debug\SQLComputerViewer3.pdb
+C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\obj\Debug\SQLComputerViewer3.csprojAssemblyReference.cache
+C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\obj\Debug\MainWindow.g.cs
+C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\obj\Debug\App.g.cs
+C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\obj\Debug\SQLComputerViewer3_MarkupCompile.cache
+C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\obj\Debug\SQLComputerViewer3_MarkupCompile.lref
+C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\obj\Debug\MainWindow.baml
+C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\obj\Debug\SQLComputerViewer3.g.resources
+C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\obj\Debug\SQLComputerViewer3.Properties.Resources.resources
+C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\obj\Debug\SQLComputerViewer3.csproj.GenerateResource.cache
+C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\obj\Debug\SQLComputerViewer3.csproj.CoreCompileInputs.cache
+C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\obj\Debug\SQLComputerViewer3.exe
+C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\obj\Debug\SQLComputerViewer3.pdb

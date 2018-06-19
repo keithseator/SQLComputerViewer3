@@ -1,0 +1,17 @@
+﻿<Window x:Class="SQLComputerViewer3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SQLComputerViewer3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid Name="g1">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding User_Name}" Header="User Name" Width="100"/>
+                <DataGridTextColumn Binding="{Binding Computer_Name}" Header="Computer Name" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
