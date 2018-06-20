@@ -13,3 +13,5 @@ C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\obj\Debug\S
 C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\obj\Debug\SQLComputerViewer3.csproj.CoreCompileInputs.cache
 C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\obj\Debug\SQLComputerViewer3.exe
 C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\obj\Debug\SQLComputerViewer3.pdb
+C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\obj\Debug\AddLocationsAndSubnets.g.cs
+C:\Users\Sysadmin\source\repos\SQLComputerViewer3\SQLComputerViewer3\obj\Debug\AddLocationsAndSubnets.baml

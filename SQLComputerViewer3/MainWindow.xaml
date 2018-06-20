@@ -7,11 +7,21 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <DataGrid Name="g1">
-            <DataGrid.Columns>
-                <DataGridTextColumn Binding="{Binding User_Name}" Header="User Name" Width="100"/>
-                <DataGridTextColumn Binding="{Binding Computer_Name}" Header="Computer Name" Width="100"/>
-            </DataGrid.Columns>
-        </DataGrid>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="10,4,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <TabControl HorizontalAlignment="Left" Height="390" Margin="0,29,0,0" VerticalAlignment="Top" Width="792">
+            <TabItem Header="TabItem">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="TabItem">
+                <Grid Background="#FFE5E5E5" Margin="10,10,10,10">
+                    <DataGrid x:Name="g1" Margin="10,24,10,10">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Binding="{Binding User_Name}" Header="User Name" Width="100"/>
+                            <DataGridTextColumn Binding="{Binding Computer_Name}" Header="Computer Name" Width="100"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+        </TabControl>
     </Grid>
 </Window>

@@ -45,5 +45,11 @@ namespace SQLComputerViewer3
 
             g1.ItemsSource = dt.DefaultView;
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            AddLocationsAndSubnets window = new AddLocationsAndSubnets();
+            window.Show();
+        }
     }
 }
